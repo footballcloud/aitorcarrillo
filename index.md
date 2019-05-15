@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Centrocampista
 ---
+
+-
 
 # ¿Mis Cualidades?
 
@@ -17,7 +18,7 @@ Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 
 # Inter de Mostoles
 
-- [Etremo derecho - 18/19] (1º Regional)
+- [Centrocampista - 18/19] (1º Regional)
 
 # EMF Moraleja 
 
