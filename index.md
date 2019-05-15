@@ -22,12 +22,12 @@ Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 
 # EMF Moraleja 
 
-- [Entrenador - 18/19] (Benjamin)
-- Ascenso a preferente
+- [Entrenador - 18/19] (Primera Benjamin)
+- [Campeon de liga]
 
 # Arrollomolinos 
 
-- [Centrocampista - 17/18] (2º Regional)
+- [Centrocampista - 17/18] (1º Regional)
 
 # A.D Alcorcón 
 
