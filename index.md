@@ -1,7 +1,7 @@
 ---
 layout: page
+title: .
 ---
-
 # ¿Mis cualidades?
 
 Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
