@@ -5,11 +5,11 @@ title: Aitor Carrillo
 
 # ¿Mis cualidades?
 
-Versatilidad, Talento, Mentalidad potente, Sacrificio, Capacidad de adaptación.
+Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 
 # ¿Donde me puedes encontrar?
 
-[@petedunham88](https://www.facebook.com/aitor.carrillo.359)
+[@facebook](https://www.facebook.com/aitor.carrillo.359)
 
 # Mi FootballCloud
 
