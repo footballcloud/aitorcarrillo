@@ -2,9 +2,7 @@
 layout: page
 ---
 
--
-
-# ¿Mis Cualidades?
+# ¿Mis cualidades?
 
 Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 
@@ -25,7 +23,3 @@ Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 - [Entrenador - 18/19] (Benjamin)
 
 ```
-
-# Contacto
-
-<footballcloudnet@gmail.com>
