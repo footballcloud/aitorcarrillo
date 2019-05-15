@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 
+title: Centrocampista
 ---
 
-# ¿Mis cualidades?
+# ¿Mis Cualidades?
 
 Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 
