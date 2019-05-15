@@ -9,7 +9,7 @@ Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 # ¿Donde me puedes encontrar?
 
 [@facebook](https://www.facebook.com/aitor.carrillo.359)
-[@twitter](https://twitter.com/carrilloaitor)
+[@instagram](https://www.instagram.com/carrilloaitor/)
 
 # Mi FootballCloud
 
@@ -23,18 +23,18 @@ Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 # EMF Moraleja 
 
 - [Entrenador - 18/19] (Primera Benjamin)
-- [Campeon de liga]
 
-# Arrollomolinos 
+# Arroyomolinos
 
 - [Centrocampista - 17/18] (1º Regional)
 
 # A.D Alcorcón 
 
-- [Centrocampista - 14/15/16/17] (Juvenil A,B)
+- [Centrocampista - 14/15/16/17] (Juvenil A,B,C)
 - [División de Honor]
 - [Copa de Federación Madrileña]  
 - [Liga Nacional]
+- [Primera división Autonómica]
 
 # A.D Alcorcón 
 
