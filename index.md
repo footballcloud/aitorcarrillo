@@ -1,12 +1,11 @@
 ---
 layout: page
-title: .
 ---
 # ¿Mis cualidades?
 
 Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 
-# ¿Donde me puedes encontrar?
+# ¿Dónde me puedes encontrar?
 
 [@facebook](https://www.facebook.com/aitor.carrillo.359)
 [@instagram](https://www.instagram.com/carrilloaitor/)
