@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Aitor Carrillo
 ---
 # ¿Mis cualidades?
 
