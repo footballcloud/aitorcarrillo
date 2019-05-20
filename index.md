@@ -1,6 +1,18 @@
 ---
 layout: page
 title: .
+slider:
+  text_color: white
+  shadow_color: black
+  slides: 
+    - image: /uploads/slider/ganapathy-kumar-93498.jpg
+      slide_html:
+    - image: /uploads/slider/samuel-zeller-356272.jpg
+      slide_html: "<h3>La Passione 1/2</h3>Shirley, do you own a Ferrari?"
+    - image: /uploads/slider/samuel-zeller-356338.jpg
+      slide_html: "<h3>La Passione 2/2</h3>Yes, my life is your dream."
+    - image: /uploads/slider/ricardo-gomez-angel-180819.jpg
+      slide_html:
 ---
 # ¿Mis cualidades?
 
@@ -48,3 +60,4 @@ Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 - [División de Honor]
 
 ```
+[Powered by FootballCloud](https://footballcloud.net/)
